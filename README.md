@@ -14,6 +14,7 @@ _kit/
 ├── README.md        ← this file
 ├── package.json     ← three.js + the two pixel fonts
 ├── tools/
+│   └── tracker_add.py ← add/update rows in Shorts Tracker.xlsx (no spreadsheet skill needed)
 │   └── bed.py       ← beat-matched background music bed (beat-music-bed skill)
 └── templates/
     ├── ship/        ← BEST STARTING POINT. High quality: hall + engine exterior, cutaway cylinder
