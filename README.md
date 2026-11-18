@@ -1,7 +1,7 @@
 # Engineers Without Sleep — video kit
 
 > **GitHub copy (branch `kit` of nikhilprashant21/shorts-drop).** Mirror of `D:\Engineers Without Sleep Shorts\_kit\`
-> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel, heli); the PC copy is the
+> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel, heli, gps); the PC copy is the
 > master. Clone: `git clone --depth 1 -b kit https://github.com/nikhilprashant21/shorts-drop kit`
 
 
@@ -44,10 +44,14 @@ _kit/
     │                  rotor whose apexes trace it, 3 live chamber fills coloured by stroke, ports + flow dots, twin
     │                  plugs, eccentric shaft, 3:2 gears (rotor fades to x-ray), 3:1 counter, bang-rate panel.
     │                  Blended branding: embossed rotor ring, cast housing bands, stencilled crate, NOSLEEP plate. 120 BPM.
-    └── heli/        ← High quality: Robinson R44-style helicopter (metres) in a hangar on a branded helipad: 2-blade
-                       rotor with real airfoil blades, swashplate, collective/cyclic pitch, tail rotor, instanced
-                       downwash, lift + tail-thrust arrows, blade-frame camera, BLADE SLICE panel, torque arcs.
-                       Livery branding (boom decal, NO-SLEEP reg, helipad ring). 100 BPM (4X/8X/16X from 400 rpm).
+    ├── heli/        ← High quality: Robinson R44-style helicopter (metres) in a hangar on a branded helipad: 2-blade
+    │                  rotor with real airfoil blades, swashplate, collective/cyclic pitch, tail rotor, instanced
+    │                  downwash, lift + tail-thrust arrows, blade-frame camera, BLADE SLICE panel, torque arcs.
+    │                  Livery branding (boom decal, NO-SLEEP reg, helipad ring). 100 BPM (4X/8X/16X from 400 rpm).
+    └── gps/         ← Space look: Earth globe textured from world-atlas land polygons (land.js), atmosphere, stars,
+                       30-satellite GPS constellation (6 planes, 55 deg), branded satellite bus, light shells, distance
+                       spheres, sphere-sphere circle, 3-sphere candidate points, phone blue dot. CONTINUOUS camera:
+                       one Catmull-Rom spline after the hook (KEYS list) + running-sentence captions. 120 BPM.
 ```
 
 Each template is self-contained:
