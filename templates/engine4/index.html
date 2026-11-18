@@ -1,0 +1,8 @@
+<!doctype html><html><head><style>
+@font-face{font-family:PS2P;src:url(node_modules/@fontsource/press-start-2p/files/press-start-2p-latin-400-normal.woff2)}
+@font-face{font-family:SILK;src:url(node_modules/@fontsource/silkscreen/files/silkscreen-latin-400-normal.woff2)}
+body{margin:0;background:#000}</style></head><body><script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js"}}</script>
+<script type="module">
+await document.fonts.load('32px PS2P'); await document.fonts.load('24px SILK');
+await import('./scene.js'); await window.ready; window.READY = true;
+</script></body></html>
