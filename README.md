@@ -1,7 +1,7 @@
 # Engineers Without Sleep — video kit
 
 > **GitHub copy (branch `kit` of nikhilprashant21/shorts-drop).** Mirror of `D:\Engineers Without Sleep Shorts\_kit\`
-> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel, heli, gps, solar); the PC copy is the
+> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel, heli, gps, solar, propeller); the PC copy is the
 > master. Clone: `git clone --depth 1 -b kit https://github.com/nikhilprashant21/shorts-drop kit`
 
 
@@ -52,10 +52,14 @@ _kit/
     │                  30-satellite GPS constellation (6 planes, 55 deg), branded satellite bus, light shells, distance
     │                  spheres, sphere-sphere circle, 3-sphere candidate points, phone blue dot. CONTINUOUS camera:
     │                  one Catmull-Rom spline after the hook (KEYS list) + running-sentence captions. 120 BPM.
-    └── solar/       ← Two sets: sunny rooftop (sky gradient, sun sprite, 3 tilted 60-cell panels with per-cell
-                       materials that light up in series, sun-ray streaks, inverter with nameplate) + an "atom scale"
-                       cell cut-open far away at X0 (N/P layers, lattice atoms, spare electrons, holes, one-way wall
-                       with field arrows, photon -> electron/hole, wire + lamp with flowing current). 120 BPM.
+    ├── solar/       ← Two sets: sunny rooftop (sky gradient, sun sprite, 3 tilted 60-cell panels with per-cell
+    │                  materials that light up in series, sun-ray streaks, inverter with nameplate) + an "atom scale"
+    │                  cell cut-open far away at X0 (N/P layers, lattice atoms, spare electrons, holes, one-way wall
+    │                  with field arrows, photon -> electron/hole, wire + lamp with flowing current). 120 BPM.
+    └── propeller/   ← Sea look from ship + UNDERWATER look (teal fog, surface from below, light shafts): Emma Maersk-
+                       size 6-blade prop built from real pitch (twisted, skewed blades), rudder, skeg, diver for scale,
+                       water particles through the disc, cavitation bubbles + blur disc, shaft/engine x-ray filmed
+                       lengthwise, overlay thrust arrows and screw path. 102 BPM (real 102 rpm = 1 turn per beat).
 ```
 
 Each template is self-contained:
