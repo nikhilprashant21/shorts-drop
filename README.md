@@ -1,7 +1,7 @@
 # Engineers Without Sleep — video kit
 
 > **GitHub copy (branch `kit` of nikhilprashant21/shorts-drop).** Mirror of `D:\Engineers Without Sleep Shorts\_kit\`
-> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel, heli, gps); the PC copy is the
+> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel, heli, gps, solar); the PC copy is the
 > master. Clone: `git clone --depth 1 -b kit https://github.com/nikhilprashant21/shorts-drop kit`
 
 
@@ -48,10 +48,14 @@ _kit/
     │                  rotor with real airfoil blades, swashplate, collective/cyclic pitch, tail rotor, instanced
     │                  downwash, lift + tail-thrust arrows, blade-frame camera, BLADE SLICE panel, torque arcs.
     │                  Livery branding (boom decal, NO-SLEEP reg, helipad ring). 100 BPM (4X/8X/16X from 400 rpm).
-    └── gps/         ← Space look: Earth globe textured from world-atlas land polygons (land.js), atmosphere, stars,
-                       30-satellite GPS constellation (6 planes, 55 deg), branded satellite bus, light shells, distance
-                       spheres, sphere-sphere circle, 3-sphere candidate points, phone blue dot. CONTINUOUS camera:
-                       one Catmull-Rom spline after the hook (KEYS list) + running-sentence captions. 120 BPM.
+    ├── gps/         ← Space look: Earth globe textured from world-atlas land polygons (land.js), atmosphere, stars,
+    │                  30-satellite GPS constellation (6 planes, 55 deg), branded satellite bus, light shells, distance
+    │                  spheres, sphere-sphere circle, 3-sphere candidate points, phone blue dot. CONTINUOUS camera:
+    │                  one Catmull-Rom spline after the hook (KEYS list) + running-sentence captions. 120 BPM.
+    └── solar/       ← Two sets: sunny rooftop (sky gradient, sun sprite, 3 tilted 60-cell panels with per-cell
+                       materials that light up in series, sun-ray streaks, inverter with nameplate) + an "atom scale"
+                       cell cut-open far away at X0 (N/P layers, lattice atoms, spare electrons, holes, one-way wall
+                       with field arrows, photon -> electron/hole, wire + lamp with flowing current). 120 BPM.
 ```
 
 Each template is self-contained:
