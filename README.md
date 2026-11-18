@@ -1,7 +1,7 @@
 # Engineers Without Sleep — video kit
 
 > **GitHub copy (branch `kit` of nikhilprashant21/shorts-drop).** Mirror of `D:\Engineers Without Sleep Shorts\_kit\`
-> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer); the PC copy is the
+> for chats where the PC is offline. It holds only the templates copied so far (ship, clipper, engine4, transformer, wankel); the PC copy is the
 > master. Clone: `git clone --depth 1 -b kit https://github.com/nikhilprashant21/shorts-drop kit`
 
 
@@ -36,10 +36,14 @@ _kit/
     │                  piston/rod/crank, DOHC cams + valves at half crank speed, spark plug, colour-coded gas,
     │                  port flow particles, rear timing belt 2:1, firing-order 1-3-4-2 panel). 100 BPM
     │                  (8X/16X/128X slower from 800 rpm idle land on the beat). Music in A minor: the bed misread Em-C-G-D as C major.
-    └── transformer/ ← High quality: iron core + 4-turn primary + 40-turn secondary (one mesh per turn so they light up),
-                       tank that fades to x-ray, bushings, flux arrows round the core, electron dots that jiggle (AC) or
-                       drift (DC), scope / volts-x-amps / heat panels, mini pylon line with power pulses. 120 BPM
-                       (50X/100X/200X slower from 50 Hz). Wide subject: camAt() has per-shot distance factors (KH/KS).
+    ├── transformer/ ← High quality: iron core + 4-turn primary + 40-turn secondary (one mesh per turn so they light up),
+    │                  tank that fades to x-ray, bushings, flux arrows round the core, electron dots that jiggle (AC) or
+    │                  drift (DC), scope / volts-x-amps / heat panels, mini pylon line with power pulses. 120 BPM
+    │                  (50X/100X/200X slower from 50 Hz). Wide subject: camAt() has per-shot distance factors (KH/KS).
+    └── wankel/      ← High quality (replaces old low-res rotary): exact Mazda epitrochoid housing (R 105 / e 15 mm),
+                       rotor whose apexes trace it, 3 live chamber fills coloured by stroke, ports + flow dots, twin
+                       plugs, eccentric shaft, 3:2 gears (rotor fades to x-ray), 3:1 counter, bang-rate panel.
+                       Blended branding: embossed rotor ring, cast housing bands, stencilled crate, NOSLEEP plate. 120 BPM.
 ```
 
 Each template is self-contained:
