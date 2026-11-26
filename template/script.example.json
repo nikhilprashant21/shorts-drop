@@ -1,0 +1,240 @@
+{
+  "title": "In This Town, Never Let Go on the Ice",
+  "voice": "af_heart",
+  "speed": 0.95,
+  "lead": 0.7,
+  "outro": 2.8,
+  "gap": 0.18,
+  "music": "dark",
+  "sources": [
+    "Original fiction (no factual claims)."
+  ],
+  "lines": [
+    {
+      "text": "In this town, something skates under the frozen lake, upside down, copying everything you do."
+    },
+    {
+      "text": "So you never let go of your partner's hand.",
+      "gap": 0.9
+    },
+    {
+      "text": "We call it the Underskater.",
+      "gap": 0.3
+    },
+    {
+      "text": "It can only copy one skater at a time.",
+      "gap": 0.3
+    },
+    {
+      "text": "Hold hands, and it can't choose.",
+      "gap": 0.6
+    },
+    {
+      "text": "But let go out on the ice, and it picks whoever is alone.",
+      "gap": 0.4
+    },
+    {
+      "text": "And the one who walks off the lake isn't always the one who skated on.",
+      "gap": 0.9
+    },
+    {
+      "text": "So every pair on the lake holds hands. Always.",
+      "gap": 0.4
+    },
+    {
+      "text": "Mrs. Dunn calls her son off the ice the second his friend lets go.",
+      "gap": 0.4
+    },
+    {
+      "text": "And someone scratched two words into the ice by the shore.",
+      "gap": 0.3
+    },
+    {
+      "text": "Never alone.",
+      "gap": 0.8
+    },
+    {
+      "text": "Leo was my best friend.",
+      "gap": 0.2
+    },
+    {
+      "text": "We skated every evening after school.",
+      "gap": 0.2
+    },
+    {
+      "text": "And Leo always wanted to race.",
+      "gap": 0.7
+    },
+    {
+      "text": "That night, he yanked his hand out of mine.",
+      "gap": 0.3
+    },
+    {
+      "text": "Catch me!",
+      "voice": "am_puck",
+      "speed": 1.05,
+      "gap": 0.4
+    },
+    {
+      "text": "He laughed, all alone in the middle of the lake.",
+      "gap": 0.6
+    },
+    {
+      "text": "And under the ice, the shadow stopped copying me.",
+      "gap": 0.5
+    },
+    {
+      "text": "It turned toward Leo.",
+      "gap": 0.9
+    },
+    {
+      "text": "I skated as hard as I could.",
+      "gap": 0.3
+    },
+    {
+      "text": "Under him, it lined up with his blades. Perfectly.",
+      "gap": 0.6
+    },
+    {
+      "text": "I grabbed his hand.",
+      "gap": 0.4
+    },
+    {
+      "text": "There was a crack. A flash of white.",
+      "gap": 1.0
+    },
+    {
+      "text": "And Leo was still holding my hand.",
+      "gap": 0.9
+    },
+    {
+      "text": "We walked off the ice together.",
+      "gap": 0.3
+    },
+    {
+      "text": "He didn't say a word.",
+      "gap": 0.3
+    },
+    {
+      "text": "And his hand was freezing.",
+      "gap": 0.5
+    },
+    {
+      "text": "He didn't let go, not even on the shore.",
+      "gap": 0.9
+    },
+    {
+      "text": "I looked back at the lake.",
+      "gap": 1.0
+    },
+    {
+      "text": "Under the ice, Leo was pounding on it from below.",
+      "gap": 0.5
+    },
+    {
+      "text": "Screaming, without a sound.",
+      "gap": 0.6
+    },
+    {
+      "text": "The Leo next to me smiled.",
+      "gap": 1.0
+    },
+    {
+      "text": "I grabbed his hand a second too late.",
+      "gap": 0.6
+    },
+    {
+      "text": "Leo walked me home that night.",
+      "gap": 0.4
+    },
+    {
+      "text": "The real one is still under the ice."
+    }
+  ],
+  "music_sections": [
+    [
+      0,
+      "full"
+    ],
+    [
+      2,
+      "creep"
+    ],
+    [
+      5,
+      "thin"
+    ],
+    [
+      6,
+      "hit"
+    ],
+    [
+      7,
+      "thin"
+    ],
+    [
+      11,
+      "soft"
+    ],
+    [
+      14,
+      "creep"
+    ],
+    [
+      17,
+      "out"
+    ],
+    [
+      18,
+      "hit"
+    ],
+    [
+      19,
+      "full"
+    ],
+    [
+      22,
+      "out"
+    ],
+    [
+      23,
+      "soft"
+    ],
+    [
+      24,
+      "creep"
+    ],
+    [
+      28,
+      "out"
+    ],
+    [
+      29,
+      "hit"
+    ],
+    [
+      30,
+      "out"
+    ],
+    [
+      31,
+      "creep"
+    ],
+    [
+      32,
+      "out"
+    ],
+    [
+      33,
+      "creep"
+    ],
+    [
+      34,
+      "out"
+    ],
+    [
+      "t:91.4",
+      "hit"
+    ]
+  ]
+}

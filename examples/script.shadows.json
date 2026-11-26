@@ -1,0 +1,231 @@
+{
+  "title": "In This Town, Count Your Shadows",
+  "voice": "af_heart",
+  "speed": 0.95,
+  "lead": 0.7,
+  "outro": 2.8,
+  "gap": 0.18,
+  "music": "dark",
+  "sources": [
+    "Original fiction (no factual claims)."
+  ],
+  "lines": [
+    {
+      "text": "In this town, when the streetlights come on, you count your shadows."
+    },
+    {
+      "text": "If you have two,",
+      "break": true,
+      "gap": 0.2
+    },
+    {
+      "text": "one of them isn't yours.",
+      "gap": 0.9
+    },
+    {
+      "text": "We call it the Tagalong. It follows you home.",
+      "gap": 0.3
+    },
+    {
+      "text": "And if it reaches your front door, it comes in with you.",
+      "gap": 0.7
+    },
+    {
+      "text": "So every kid in this town looks down at every lamp.",
+      "gap": 0.4
+    },
+    {
+      "text": "Mr. Pell found two shadows on his way home once.",
+      "gap": 0.3
+    },
+    {
+      "text": "He came home different. His curtains have been shut ever since.",
+      "gap": 0.7
+    },
+    {
+      "text": "But there's one way to lose it.",
+      "gap": 0.3
+    },
+    {
+      "text": "Shadows can't live in total darkness.",
+      "gap": 0.2
+    },
+    {
+      "text": "Stand in the dark, count to ten, and the extra one lets go.",
+      "gap": 0.5
+    },
+    {
+      "text": "Just make sure the one that comes back out is yours.",
+      "gap": 0.9
+    },
+    {
+      "text": "I walked home alone from violin every Thursday."
+    },
+    {
+      "text": "Six lamps between the school and my door.",
+      "gap": 0.4
+    },
+    {
+      "text": "At the third lamp, I looked down.",
+      "gap": 1.0
+    },
+    {
+      "text": "Two shadows.",
+      "gap": 0.6
+    },
+    {
+      "text": "And one of them turned its head when I didn't.",
+      "gap": 0.8
+    },
+    {
+      "text": "I ran. It kept up with me on the snow, the whole way.",
+      "gap": 0.4
+    },
+    {
+      "text": "Two lamps from home, there was a broken one.",
+      "gap": 0.3
+    },
+    {
+      "text": "Pitch black underneath.",
+      "gap": 0.4
+    },
+    {
+      "text": "I stood in the dark and counted.",
+      "gap": 0.3
+    },
+    {
+      "text": "One, two, three, four, five, six, seven, eight, nine, ten.",
+      "speed": 1.1,
+      "gap": 0.8
+    },
+    {
+      "text": "Then I stepped back into the light.",
+      "gap": 0.8
+    },
+    {
+      "text": "One shadow.",
+      "gap": 0.4
+    },
+    {
+      "text": "I waved, and it waved back.",
+      "gap": 0.5
+    },
+    {
+      "text": "I ran the rest of the way and slammed the door behind me.",
+      "gap": 0.9
+    },
+    {
+      "text": "That night, I reached up to turn off my lamp.",
+      "gap": 0.6
+    },
+    {
+      "text": "My shadow on the wall reached up too.",
+      "gap": 0.3
+    },
+    {
+      "text": "A second late.",
+      "gap": 0.9
+    },
+    {
+      "text": "And when I put my hand down, it didn't.",
+      "gap": 1.2
+    },
+    {
+      "text": "It never had to follow me home.",
+      "gap": 0.4
+    },
+    {
+      "text": "It came in as my shadow."
+    }
+  ],
+  "music_sections": [
+    [
+      0,
+      "full"
+    ],
+    [
+      3,
+      "creep"
+    ],
+    [
+      5,
+      "thin"
+    ],
+    [
+      7,
+      "hit"
+    ],
+    [
+      8,
+      "soft"
+    ],
+    [
+      12,
+      "soft"
+    ],
+    [
+      14,
+      "out"
+    ],
+    [
+      15,
+      "hit"
+    ],
+    [
+      16,
+      "creep"
+    ],
+    [
+      17,
+      "full"
+    ],
+    [
+      19,
+      "out"
+    ],
+    [
+      22,
+      "soft"
+    ],
+    [
+      23,
+      "out"
+    ],
+    [
+      24,
+      "soft"
+    ],
+    [
+      25,
+      "thin"
+    ],
+    [
+      26,
+      "creep"
+    ],
+    [
+      27,
+      "out"
+    ],
+    [
+      28,
+      "hit"
+    ],
+    [
+      29,
+      "out"
+    ],
+    [
+      30,
+      "creep"
+    ],
+    [
+      31,
+      "out"
+    ],
+    [
+      "t:85.4",
+      "hit"
+    ]
+  ]
+}

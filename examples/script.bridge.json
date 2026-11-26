@@ -1,0 +1,201 @@
+{
+  "title": "In This Town, You Never Cross the Bridge in the Dark",
+  "voice": "af_heart",
+  "speed": 0.95,
+  "lead": 0.7,
+  "outro": 3.0,
+  "gap": 0.18,
+  "music": "dark",
+  "sources": [
+    "Original fiction (no factual claims)."
+  ],
+  "lines": [
+    {
+      "text": "In this town, you only cross the old bridge with a lit lantern."
+    },
+    {
+      "text": "If your flame goes out halfway,",
+      "break": true,
+      "gap": 0.2
+    },
+    {
+      "text": "the Toll takes you.",
+      "gap": 0.9
+    },
+    {
+      "text": "Nobody has ever seen the Toll. Only what it leaves behind.",
+      "gap": 0.4
+    },
+    {
+      "text": "Mr. Okafor's flame died halfway across.",
+      "gap": 0.4
+    },
+    {
+      "text": "In the morning, his lantern was still on the planks.",
+      "gap": 0.7
+    },
+    {
+      "text": "So everyone checks their wick before they cross."
+    },
+    {
+      "text": "And there's one more rule, carved at the foot of the bridge.",
+      "gap": 0.3
+    },
+    {
+      "text": "One flame, one crossing.",
+      "gap": 0.5
+    },
+    {
+      "text": "The Toll counts flames, not people.",
+      "gap": 0.2
+    },
+    {
+      "text": "Two people under one light, and one of them stays.",
+      "gap": 0.8
+    },
+    {
+      "text": "My little brother Sam was six, and he hated that bridge."
+    },
+    {
+      "text": "Every evening, we crossed it home from Grandma's."
+    },
+    {
+      "text": "And every evening, I checked both our lanterns twice.",
+      "gap": 0.6
+    },
+    {
+      "text": "One night, the wind came up off the river.",
+      "gap": 0.4
+    },
+    {
+      "text": "Sam held my hand so tight it hurt.",
+      "gap": 0.3
+    },
+    {
+      "text": "Halfway across, his flame went out.",
+      "gap": 1.2
+    },
+    {
+      "text": "The water went completely still.",
+      "gap": 0.6
+    },
+    {
+      "text": "And something pale curled over the railing behind him.",
+      "gap": 1.0
+    },
+    {
+      "text": "There was only one flame now.",
+      "gap": 0.3
+    },
+    {
+      "text": "And two of us.",
+      "gap": 0.9
+    },
+    {
+      "text": "So I pushed my lantern into his hands.",
+      "gap": 0.3
+    },
+    {
+      "text": "Run. Don't look back.",
+      "speed": 0.85,
+      "gap": 0.4
+    },
+    {
+      "text": "He ran, and the light got smaller and smaller.",
+      "gap": 0.5
+    },
+    {
+      "text": "Until I was standing alone in the dark.",
+      "gap": 1.2
+    },
+    {
+      "text": "Sam made it to the other side.",
+      "gap": 0.6
+    },
+    {
+      "text": "And the Toll never took me.",
+      "gap": 0.4
+    },
+    {
+      "text": "It let me stay.",
+      "gap": 0.9
+    },
+    {
+      "text": "Because that's what the Toll is. Someone who gave their light away.",
+      "gap": 0.8
+    },
+    {
+      "text": "Now I wait on the bridge, for every light that goes out."
+    }
+  ],
+  "music_sections": [
+    [
+      0,
+      "full"
+    ],
+    [
+      3,
+      "creep"
+    ],
+    [
+      6,
+      "thin"
+    ],
+    [
+      8,
+      "hit"
+    ],
+    [
+      9,
+      "thin"
+    ],
+    [
+      11,
+      "soft"
+    ],
+    [
+      14,
+      "creep"
+    ],
+    [
+      16,
+      "out"
+    ],
+    [
+      18,
+      "hit"
+    ],
+    [
+      19,
+      "creep"
+    ],
+    [
+      21,
+      "full"
+    ],
+    [
+      24,
+      "out"
+    ],
+    [
+      25,
+      "soft"
+    ],
+    [
+      27,
+      "hit"
+    ],
+    [
+      28,
+      "creep"
+    ],
+    [
+      29,
+      "out"
+    ],
+    [
+      "t:82.5",
+      "hit"
+    ]
+  ]
+}

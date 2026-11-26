@@ -1,0 +1,247 @@
+{
+  "title": "In This Town, Something Knocks With Your Dad's Voice",
+  "voice": "af_heart",
+  "speed": 0.95,
+  "lead": 0.7,
+  "outro": 3.4,
+  "gap": 0.18,
+  "music": "dark",
+  "sources": [
+    "Original fiction (no factual claims)."
+  ],
+  "lines": [
+    {
+      "text": "In this town, something knocks on your door at night,"
+    },
+    {
+      "text": "using the voices of the people you love.",
+      "gap": 0.3
+    },
+    {
+      "text": "So every family has a secret knock.",
+      "gap": 0.2
+    },
+    {
+      "text": "And you never open the door without it.",
+      "gap": 0.9
+    },
+    {
+      "text": "Nobody knows what it is. We just call it the Mimic.",
+      "gap": 0.4
+    },
+    {
+      "text": "Mr. Hale once opened his door for his wife's voice.",
+      "gap": 0.3
+    },
+    {
+      "text": "His wife was asleep upstairs.",
+      "gap": 0.5
+    },
+    {
+      "text": "His door closed by itself.",
+      "gap": 0.7
+    },
+    {
+      "text": "So we practise our knocks on our palms, never on wood."
+    },
+    {
+      "text": "Because if it hears your knock, it learns it.",
+      "gap": 0.6
+    },
+    {
+      "text": "Ours was two slow, three fast.",
+      "gap": 0.5
+    },
+    {
+      "text": "One evening, I got locked out after dark."
+    },
+    {
+      "text": "I panicked, and I knocked it. Loud.",
+      "gap": 1.6
+    },
+    {
+      "text": "And from the trees behind me,",
+      "break": true,
+      "gap": 0.5
+    },
+    {
+      "text": "something knocked it back.",
+      "gap": 1.8
+    },
+    {
+      "text": "Dad's face went white when I told him.",
+      "gap": 0.3
+    },
+    {
+      "text": "It knows our knock now. I'll make us a new one.",
+      "voice": "am_michael",
+      "speed": 0.9,
+      "gap": 0.4
+    },
+    {
+      "text": "He worked on it all evening, then left for his night shift.",
+      "gap": 0.6
+    },
+    {
+      "text": "At midnight, someone knocked.",
+      "gap": 1.9
+    },
+    {
+      "text": "Two slow. Three fast.",
+      "gap": 0.5
+    },
+    {
+      "text": "Mia, it's Dad. I forgot my keys.",
+      "voice": "am_michael",
+      "speed": 0.9,
+      "gap": 0.5
+    },
+    {
+      "text": "But that was our old knock.",
+      "gap": 0.2
+    },
+    {
+      "text": "So I didn't move.",
+      "gap": 0.4
+    },
+    {
+      "text": "It begged. Then it went quiet.",
+      "gap": 1.0
+    },
+    {
+      "text": "Then, a different knock.",
+      "gap": 1.6
+    },
+    {
+      "text": "One I'd never heard.",
+      "gap": 0.4
+    },
+    {
+      "text": "Mia, it's me! I saw it by the house! That's the new knock, open the door!",
+      "voice": "am_michael",
+      "speed": 1.05,
+      "gap": 0.5
+    },
+    {
+      "text": "But I didn't know the new knock.",
+      "gap": 0.2
+    },
+    {
+      "text": "So I didn't open it.",
+      "gap": 1.0
+    },
+    {
+      "text": "One heavy thud. Then nothing.",
+      "gap": 1.4
+    },
+    {
+      "text": "In the morning, Dad's keys were on the doorstep.",
+      "gap": 0.5
+    },
+    {
+      "text": "And on the kitchen table was a note in his handwriting.",
+      "gap": 0.3
+    },
+    {
+      "text": "Our new knock, written down for me.",
+      "gap": 0.6
+    },
+    {
+      "text": "I never checked.",
+      "gap": 1.2
+    },
+    {
+      "text": "Dad left the new knock on the kitchen table.",
+      "gap": 0.5
+    },
+    {
+      "text": "Tonight, something outside is knocking it."
+    }
+  ],
+  "music_sections": [
+    [
+      0,
+      "full"
+    ],
+    [
+      4,
+      "creep"
+    ],
+    [
+      7,
+      "hit"
+    ],
+    [
+      8,
+      "thin"
+    ],
+    [
+      11,
+      "creep"
+    ],
+    [
+      "t:35.65",
+      "out"
+    ],
+    [
+      15,
+      "hit"
+    ],
+    [
+      16,
+      "soft"
+    ],
+    [
+      18,
+      "out"
+    ],
+    [
+      19,
+      "creep"
+    ],
+    [
+      20,
+      "soft"
+    ],
+    [
+      21,
+      "hit"
+    ],
+    [
+      22,
+      "out"
+    ],
+    [
+      26,
+      "full"
+    ],
+    [
+      29,
+      "out"
+    ],
+    [
+      "t:78.85",
+      "hit"
+    ],
+    [
+      30,
+      "soft"
+    ],
+    [
+      33,
+      "out"
+    ],
+    [
+      34,
+      "creep"
+    ],
+    [
+      35,
+      "out"
+    ],
+    [
+      "t:99.0",
+      "hit"
+    ]
+  ]
+}
